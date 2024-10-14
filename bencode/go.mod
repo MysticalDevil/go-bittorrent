@@ -1,4 +1,4 @@
-module github.com/MysticalDevil/go-bittorrent/bencode
+module github.com/MysticalDevil/gobittorrent/bencode
 
 go 1.23.1
 
